@@ -4,4 +4,4 @@ Kaggleのコンペ・[House Prices: Advanced Regression Techniques](https://www.
 
 プログラムの詳細は、Qiitaで紹介しています。
 
-+ [Qiita]()
++ [Qiita](https://qiita.com/hokuto_HIRANO/items/e0f5629a0978eceadab3)
